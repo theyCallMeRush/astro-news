@@ -2,7 +2,7 @@ import type { Link } from "../types"
 
 
 export const Site = {
-  title: "Growth",
+  title: "Growth_",
   description: "A news website built with Astro",
   author: "Mohammad Rahmani",
   url: "https://astro-news-six.vercel.app",
