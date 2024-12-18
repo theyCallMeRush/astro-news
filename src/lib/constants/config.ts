@@ -1,7 +1,8 @@
 import type { Link } from "../types"
 
+
 export const Site = {
-  title: "Astro News",
+  title: "Growth",
   description: "A news website built with Astro",
   author: "Mohammad Rahmani",
   url: "https://astro-news-six.vercel.app",
